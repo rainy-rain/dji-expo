@@ -1,6 +1,17 @@
 # 怎么让所有人都能访问
 
-`dji-expo/` 是纯静态站点，没有后端、没有构建步骤，把整个文件夹原样传上去就能跑。已打包：`D:\DSHfile\dji-expo-site.zip`（7.9 MB）。
+**已上线：<https://rainy-rain.github.io/dji-expo/>**
+仓库：<https://github.com/rainy-rain/dji-expo>（GitHub Pages，`main` 分支根目录，HTTPS）
+
+以后改完内容，只要在 `dji-expo` 目录里：
+
+```bash
+git add -A && git commit -m "更新内容" && git push
+```
+
+GitHub Pages 大约 1 分钟后自动重新发布，地址不变。
+
+下面是换平台或重新部署时可用的其他方法。`dji-expo/` 是纯静态站点，没有后端、没有构建步骤，把整个文件夹原样传上去就能跑。已打包：`D:\DSHfile\dji-expo-site.zip`（7.9 MB）。
 
 下面三条路，按省事程度排序。
 

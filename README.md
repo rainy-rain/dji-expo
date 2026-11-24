@@ -1,5 +1,8 @@
 # 大疆出海 · 课程项目成果展（长页）
 
+**线上地址：<https://rainy-rain.github.io/dji-expo/>**
+仓库：<https://github.com/rainy-rain/dji-expo>
+
 北京市文汇中学 七年级地理实践活动，三个小组的成果展示页。HTML + CSS 排版，`assets/js/main.js`（约 5KB，无依赖）负责滚动与指针动效；关掉 JS 页面依然完整可读。
 
 ## 怎么预览
